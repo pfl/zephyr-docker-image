@@ -43,6 +43,7 @@ RUN dpkg --add-architecture i386 && \
 	libglib2.0-dev \
 	libgtk2.0-0 \
 	libpcap-dev \
+	libpython3-dev \
 	libsdl2-dev:i386 \
 	libtool \
 	locales \
